@@ -1,3 +1,3 @@
 ## This is a markdown file
 
-### This is Data SCience.
+### This is Data Science.
